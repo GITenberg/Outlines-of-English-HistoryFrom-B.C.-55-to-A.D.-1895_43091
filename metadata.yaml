@@ -1,0 +1,25 @@
+_repo: Outlines-of-English-HistoryFrom-B.C.-55-to-A.D.-1895_43091
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43091-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, John Charles
+    gutenberg_agent_id: '42017'
+    url: http://www.gutenberg.org/2009/agents/42017
+description: ''
+gutenberg_issued: '2013-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+title: "Outlines of English History from B.C. 55 to A.D. 1895\r\nArranged in Chronological\
+  \ Order"
+url: http://www.gutenberg.org/ebooks/43091
